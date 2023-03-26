@@ -1,0 +1,11 @@
+div{
+    width: 200px;
+    height: 200px;
+  background-color: yellow;
+    border-radius: 100px 100px 100px 100px ;
+   transition-property: all;
+    transition-duration: 4s;
+}
+div:hover{
+opacity: 0;
+}
